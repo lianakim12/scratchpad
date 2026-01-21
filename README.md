@@ -15,7 +15,7 @@ This will download and extract the course data for you.
 
 3. When you're done, use `Save a Copy in GitHub` to save your notebook back to your `scratchpad` repo as `nb_2026_mm_dd.ipynb`.
 
-## Rivanna HPC:
+## Rivanna HPC, or locally:
 
 0. Fork this repo, so can clone and push easily
 1. Start a VS Code Server session on Rivanna
